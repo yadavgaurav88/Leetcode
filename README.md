@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yadavgaurav88/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yadavgaurav88/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2574-left-and-right-sum-differences](https://github.com/yadavgaurav88/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yadavgaurav88/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/yadavgaurav88/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yadavgaurav88/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0087-scramble-string](https://github.com/yadavgaurav88/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/yadavgaurav88/Leetcode/tree/master/0091-decode-ways) |
 | [1189-maximum-number-of-balloons](https://github.com/yadavgaurav88/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavgaurav88/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yadavgaurav88/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/yadavgaurav88/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/yadavgaurav88/Leetcode/tree/master/0091-decode-ways) |
 ## Array
 |  |
 | ------- |

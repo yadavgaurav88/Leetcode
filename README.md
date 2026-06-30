@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/yadavgaurav88/Leetcode/tree/master/0090-subsets-ii) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yadavgaurav88/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavgaurav88/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yadavgaurav88/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yadavgaurav88/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yadavgaurav88/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yadavgaurav88/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yadavgaurav88/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yadavgaurav88/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yadavgaurav88/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

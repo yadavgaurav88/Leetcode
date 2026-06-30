@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/yadavgaurav88/Leetcode/tree/master/0090-subsets-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavgaurav88/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yadavgaurav88/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yadavgaurav88/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/yadavgaurav88/Leetcode/tree/master/0086-partition-list) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/yadavgaurav88/Leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/yadavgaurav88/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/yadavgaurav88/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yadavgaurav88/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/yadavgaurav88/Leetcode/tree/master/1934-confirmation-rate) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/yadavgaurav88/Leetcode/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/yadavgaurav88/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
